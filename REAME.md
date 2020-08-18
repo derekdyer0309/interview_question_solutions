@@ -1,6 +1,6 @@
 This repository contains solutions for interview questions I have encountered or have practiced through courses, leetcode, hackerrank and other sources.
 
-**Array Sequences**
+#**Array Sequences**
 
 1.**Array Anagram**
 1.**Array Pair Sum**
@@ -8,3 +8,4 @@ This repository contains solutions for interview questions I have encountered or
 1.**Remove kth Node**
 1.**Three Num Sum**
 1.**Missing Element**
+1.**Maximum Continuous Sum**

@@ -38,4 +38,4 @@ def finder(arr1, arr2):
     return f"{missing} is the missing number"
     
 
-print(finder([1,2,3,4,5,6,7],[1, 2, 3, 4, 5, 6]))
+print(finder([1,2.0,3,4,5,6,7,7,7,7.0],[1, 2.0, 3, 4, 5, 6, 8, 8, 4]))
