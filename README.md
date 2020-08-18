@@ -1,6 +1,6 @@
 This repository contains solutions for interview questions I have encountered or have practiced through courses, leetcode, hackerrank and other sources.
 
-#**Array Sequences**
+# **Array Sequences**
 
 1. **Array Anagram**
 1. **Array Pair Sum**
