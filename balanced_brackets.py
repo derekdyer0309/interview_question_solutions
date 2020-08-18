@@ -1,5 +1,4 @@
 
-
 def balancedBrackets(string):
 
     # Check if brackets are divisible by 2
@@ -26,10 +25,4 @@ def balancedBrackets(string):
     #We want our stack to be empty so we return the opposite of stack
     return not stack
 
-
-def print_stack():
-    stack = [1]
-    return not stack
-
 print(balancedBrackets('I (wa)n{t to buy a on}esie[…] b(u{[t] kno}w it) won’t suit me.'))
-print(print_stack())
