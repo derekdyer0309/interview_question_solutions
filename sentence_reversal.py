@@ -36,6 +36,21 @@ def string_reversal(str):
     return " ".join(reversed_str)
 
 
+print(string_reversal('    space before')) #'before space'
+print(string_reversal('space after     ')) #'after space'
+print(string_reversal('   Hello John    how are you   ')) # 'you are how John Hello'
+print(string_reversal('1')) #1
 
-print(string_reversal('This is the best'))
-print(string_reversal('  space here'))
+# from nose import nose.tools
+# class ReversalTest(object):
+    
+#     def test(self,sol):
+#         assert_equal(sol('    space before'),'before space')
+#         assert_equal(sol('space after     '),'after space')
+#         assert_equal(sol('   Hello John    how are you   '),'you are how John Hello')
+#         assert_equal(sol('1'),'1')
+#         print("ALL TEST CASES PASSED")
+        
+# # Run and test
+# t = ReversalTest()
+# t.test(string_reversal)
