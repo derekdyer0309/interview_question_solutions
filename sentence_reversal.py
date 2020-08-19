@@ -18,7 +18,7 @@ both become:
 'here space'
 
 
-###NOTE: DO NOT USE .reverse()
+###NOTE: DO NOT USE .reverse()###
 
 """
 
