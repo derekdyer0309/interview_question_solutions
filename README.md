@@ -10,3 +10,4 @@ This repository contains solutions for interview questions I have encountered or
 1. **Missing Element**
 1. **Maximum Continuous Sum**
 1. **Sentence Reversal**
+1. **String Compression**
