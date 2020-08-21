@@ -25,11 +25,13 @@ def compress(string):
             letters[char] +=1
     #Each key and value is appended to our result
     for k, v in letters.items():
-        result.append(k+str(v))
+        result.append(k + str(v))
     #We join our list to a string and return
     return "".join(result)
 
 
 
-print(compress('AAAAABBBBCCCC'))
-print(compress('AABaabb'))
+print(compress('AAAAABBBBCCCC')) #A5B4C4
+print(compress('AABBCC')) #A2B2C2
+print(compress('AAABCCDDDDD')) #A3B1C2D5
+print(compress('AaBbCcDdCc')) #A1a1B1b1C2c2D1d1
