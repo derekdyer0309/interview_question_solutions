@@ -10,6 +10,7 @@ This repository contains solutions for interview questions I have encountered or
 1. **Maximum Continuous Sum**
 1. **Sentence Reversal**
 1. **String Compression**
+1. **Unique characters**
 
 # **Stacks and Queues**
 1. **Balanced Brackets**
