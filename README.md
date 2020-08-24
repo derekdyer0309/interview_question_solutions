@@ -13,7 +13,11 @@ This repository contains solutions for interview questions I have encountered or
 1. **Unique characters**
 
 # **Stacks and Queues**
+1. **Stack**
+1. **Queue**
+1. **Dequeue**
 1. **Balanced Brackets**
+
 
 # **Linked Lists**
 1. **Remove kth Node**
