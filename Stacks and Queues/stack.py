@@ -22,7 +22,10 @@ class Stack:
         self.items.append(item)
 
     def pop(self):
-        self.items.pop()
+        return self.items.pop()
+
+    def peek(self):
+        return self.items[len(self.items)-1]
 
     def size(self):
         return len(self.items)
@@ -34,11 +37,14 @@ print(s.size())
 print(s.isEmpty())
 
 s.push('s')
+s.push('t')
+s.push('a')
+s.push('c')
 s.push('k')
 
 print(s.size())
 print(s.isEmpty())
-
-s.pop()
+print(s.peek())
+print(s.pop())
 
 print(s.size())
