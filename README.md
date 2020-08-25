@@ -22,4 +22,9 @@ This repository contains solutions for interview questions I have encountered or
 
 
 # **Linked Lists**
+1. **Singly Linked List**
+1. **Singly Linked List Cycle Check**
+1. **Doubly Linked List**
+1. **Linked List Reversal**
+1. **Linked List Nth to Last Node**
 1. **Remove kth Node**
