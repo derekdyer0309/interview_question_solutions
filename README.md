@@ -17,6 +17,8 @@ This repository contains solutions for interview questions I have encountered or
 1. **Queue**
 1. **Dequeue**
 1. **Balanced Brackets**
+1. **Balanced Parenthesis**
+1. **Queue using two stacks**
 
 
 # **Linked Lists**
