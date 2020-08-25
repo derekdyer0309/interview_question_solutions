@@ -36,6 +36,13 @@ q.enqueue("World")
 
 print(q.dequeue()) #1
 print(q.dequeue()) #2
+
+q.enqueue(True)
+q.enqueue(70)
+q.enqueue('2')
+q.enqueue("string")
+
 print(q.dequeue()) #Hello
 print(q.dequeue()) #World
+print(q.dequeue()) #True
 
