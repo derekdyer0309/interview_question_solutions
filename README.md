@@ -28,3 +28,6 @@ This repository contains solutions for interview questions I have encountered or
 1. **Linked List Reversal**
 1. **Linked List Nth to Last Node**
 1. **Remove kth Node**
+
+# **Strings**
+1. **sockMerchant**
