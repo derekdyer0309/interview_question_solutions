@@ -31,3 +31,4 @@ This repository contains solutions for interview questions I have encountered or
 
 # **Strings**
 1. **sockMerchant**
+1. **countingValleys**
