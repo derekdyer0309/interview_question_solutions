@@ -11,6 +11,7 @@ This repository contains solutions for interview questions I have encountered or
 1. **Sentence Reversal**
 1. **String Compression**
 1. **Unique characters**
+1. **jumpingOnClouds**
 
 # **Stacks and Queues**
 1. **Stack**
@@ -32,3 +33,4 @@ This repository contains solutions for interview questions I have encountered or
 # **Strings**
 1. **sockMerchant**
 1. **countingValleys**
+1. **repeatedString**
