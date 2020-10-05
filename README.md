@@ -12,6 +12,8 @@ This repository contains solutions for interview questions I have encountered or
 1. **String Compression**
 1. **Unique characters**
 1. **jumpingOnClouds**
+1. **hourglassSum**
+1. **rotLeft**
 
 # **Stacks and Queues**
 1. **Stack**

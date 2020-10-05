@@ -24,5 +24,5 @@ def repeatedString(s, n):
         return s.count("a") * (n // len(s)) + s[:n % len(s)].count("a")
 
 
-print(repeatedString("kmretasscityylpdhuwjirnqimlkcgxubxmsxpypgzxtenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm"
-, 736778906400))
+print(repeatedString("kmretasscityylpdhuwjirnqimlkcatenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm"
+, 103677890640))
