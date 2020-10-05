@@ -14,6 +14,8 @@ This repository contains solutions for interview questions I have encountered or
 1. **jumpingOnClouds**
 1. **hourglassSum**
 1. **rotLeft**
+1. **minimumBribes**
+1. **minimunSwaps**
 
 # **Stacks and Queues**
 1. **Stack**
